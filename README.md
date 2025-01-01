@@ -9,15 +9,15 @@ I'm a blockchain developer who implement a smart contract on Ethereum and EVM co
 
 - Winner for the prize of "Agriculture related Project - Agri 10x" in the BUIDL IT Hackathon ([link](https://devfolio.co/projects/tranche-lending-and-borrowing-for-agriculture-869e))
 
-- Winner for the Polygon/Aave Guided Bounty（Force DAO - GR10 Hackathon Bounty）([link](https://blog.forcedao.com/force-dao-gr10-hackathon-bounty-results-74a34a8a45ff))
+- Winner for the Polygon/Aave Guided Bounty（Force DAO - GR10 Hackathon Bounty）([link](https://blog.forcedao.com/force-dao-gr10-hackathon-bounty-results-74a34a8a45ff), [project repo](https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon))
 
 - 4th place for the Lido bounty of the Open DeFi Hackathon ([link](https://blog.lido.fi/lido-open-defi-hackathon-round-up/))
 
-- 5th place for the Green NFT Hackathon: Solutions Prize Bount ([link](https://gitcoin.co/issue/GreenNFT/GreenNFTs/1/100025260))
+- 5th place for the Green NFT Hackathon: Solutions Prize Bount ([link](https://gitcoin.co/issue/GreenNFT/GreenNFTs/1/100025260), [project repo](https://github.com/masaun/tokenized-carbon-credit-marketplace))
 
 - Winner for the Liquity's bounty (Best Liquity Tool / Integration) in the GR9 Hackathon on Gitcoin ([link](https://medium.com/liquity/liquity-gr9-hackathon-winners-f5566a30958f))
 
-- 3rd place for the BSC (Binance Smart Chain) Hackathon: The Future Is Now ([link](https://gitcoin.co/issue/binancex/Grant-projects/17/100024656))
+- 3rd place for the BSC (Binance Smart Chain) Hackathon: The Future Is Now ([link](https://gitcoin.co/issue/binancex/Grant-projects/17/100024656), [project repo](https://github.com/masaun/NFT-yield-farming))
 
 - Winner for Opolis bounty in the ETHDenver 2021 ([link](https://devfolio.co/projects/referral-system-for-dollarwork-rewards-0059))
 
