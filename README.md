@@ -23,7 +23,7 @@ I'm a blockchain developer who implement a smart contract on Ethereum and EVM co
 
 - Winner for the EtherPunk 2021 hachathon ([link](https://devfolio.co/projects/a-liquidity-protocol-stake-delegation-contract-1232))
 
-- Winner for the Baseline Protocol 2020 Hackathon ([link](https://gitcoin.co/issue/ethereum-oasis/baseline-roadmap/163/100024426))
+- Winner for the Baseline Protocol 2020 Hackathon ([link](https://gitcoin.co/issue/ethereum-oasis/baseline-roadmap/163/100024426), [project repo](https://github.com/masaun/tokenization-of-baselined-records))
 
 - Winner for the bounty of Sögur Hackathon on Gitcoin ([link](https://link.medium.com/ZITCebrMNcb))
 
