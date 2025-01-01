@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a blockchain developer who implement a smart contract on Ethereum and EVM compatible chains by using Solidity/Hardhat, Foundry.
+I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry, Hardhat) on Ethereum and EVM compatible chains.
 
 
 ## Achievements:
