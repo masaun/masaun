@@ -12,7 +12,7 @@ I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry
   - Project: [Tranche lending and borrowing smart contract for agriculture market👩‍🌾🌽 ](https://github.com/masaun/tranche-lending-and-borrowing-for-agriculture-market )
   
 - Winner for the Polygon/Aave Guided Bounty（Force DAO - GR10 Hackathon Bounty）([link](https://blog.forcedao.com/force-dao-gr10-hackathon-bounty-results-74a34a8a45ff))
-  - Project: [ForceDAO Yield Farming Strategy on Polygon](https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon))
+  - Project: [ForceDAO Yield Farming Strategy on Polygon](https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon)
 
 - 4th place for the Lido bounty of the Open DeFi Hackathon ([link](https://blog.lido.fi/lido-open-defi-hackathon-round-up/))
   - Project: [Lido's stETH as a yield source of PoolTogether](https://github.com/masaun/lido-stETH-as-yield-source?ref=blog.lido.fi) 
