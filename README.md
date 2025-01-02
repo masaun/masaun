@@ -9,7 +9,8 @@ I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry
   - Project: [Social Impact Voucher](https://github.com/masaun/social-impact-voucher) 
 
 - Winner for the prize of "Agriculture related Project - Agri 10x" in the BUIDL IT Hackathon ([link](https://devfolio.co/projects/tranche-lending-and-borrowing-for-agriculture-869e))
-
+  - Project: [Tranche lending and borrowing smart contract for agriculture market👩‍🌾🌽 ](https://github.com/masaun/tranche-lending-and-borrowing-for-agriculture-market )
+  
 - Winner for the Polygon/Aave Guided Bounty（Force DAO - GR10 Hackathon Bounty）([link](https://blog.forcedao.com/force-dao-gr10-hackathon-bounty-results-74a34a8a45ff), [project repo](https://github.com/masaun/forceDAO-yield-farming-strategy-on-polygon))
 
 - 4th place for the Lido bounty of the Open DeFi Hackathon ([link](https://blog.lido.fi/lido-open-defi-hackathon-round-up/))
