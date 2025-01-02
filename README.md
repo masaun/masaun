@@ -39,7 +39,7 @@ I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry
   - Project: [Arbitrageur between SGR (Sögur Token) and ETH](https://github.com/masaun/arbitrageur-between-sgr-and-eth)
 
 - 3rd place at Gitcoin x Aave Hackathon ([link](https://medium.com/aave/gitcoin-x-aave-hackathon-recap-f61d24af2cb))
-
+  - Project: [Flashloan for students](https://github.com/masaun/flashloan-for-students)
 
 ## Reach out to me:
 
