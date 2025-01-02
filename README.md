@@ -5,8 +5,7 @@ I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry
 
 ## Achievements:
 
-- Winner for the prize of "Union Finance" in the EthCC Hack 2022
-  - Result: [link](https://medium.com/@dereksilva/ethcc-hack-2022-winners-3461e41c8b42))
+- Winner for the prize of "Union Finance" in the EthCC Hack 2022 ([link](https://medium.com/@dereksilva/ethcc-hack-2022-winners-3461e41c8b42))
   - Project: [Social Impact Voucher](https://github.com/masaun/social-impact-voucher) 
 
 - Winner for the prize of "Agriculture related Project - Agri 10x" in the BUIDL IT Hackathon ([link](https://devfolio.co/projects/tranche-lending-and-borrowing-for-agriculture-869e))
