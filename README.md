@@ -2,6 +2,9 @@
 
 I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry, Hardhat) on Ethereum and EVM compatible chains.
 
+## Reach out to me:
+
+- 📫 Email: masaun@protonmail.com
 
 ## Achievements:
 
@@ -41,9 +44,6 @@ I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry
 - 3rd place at Gitcoin x Aave Hackathon ([link](https://medium.com/aave/gitcoin-x-aave-hackathon-recap-f61d24af2cb))
   - Project: [Flashloan for students](https://github.com/masaun/flashloan-for-students)
 
-## Reach out to me:
-
-- 📫 Email: masaun@protonmail.com
 
 <!--
 **masaun/masaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
