@@ -2,9 +2,13 @@
 
 I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry, Hardhat) on Ethereum and EVM compatible chains.
 
+<br>
+
 ## Reach out to me:
 
 - 📫 Email: masaun@protonmail.com
+
+<br>
 
 ## Achievements:
 
