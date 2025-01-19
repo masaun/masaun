@@ -2,6 +2,8 @@
 
 I'm a blockchain developer who implement a smart contract in Solidity (+ Foundry, Hardhat) on Ethereum and EVM compatible chains.
 
+I'm also a ZK developer who implement ZK circuit in Noir, Circom / ZK application in zkVM like SP1 (Succinct), RISC Zero. 
+
 <br>
 
 ## Reach out to me:
