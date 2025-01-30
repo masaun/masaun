@@ -12,7 +12,7 @@ I'm also a ZK developer who implement ZK circuit in Noir, Circom / ZK applicatio
 
 <br>
 
-## Achievements:
+## Awards:
 
 - Winner for the prize of "Union Finance" in the EthCC Hack 2022 ([link](https://medium.com/@dereksilva/ethcc-hack-2022-winners-3461e41c8b42))
   - Project: [Social Impact Voucher](https://github.com/masaun/social-impact-voucher) 
