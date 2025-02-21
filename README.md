@@ -2,7 +2,7 @@
 
 I'm a blockchain developer who implement a smart contract in Solidity with Foundry, Hardhat on Ethereum and EVM compatible chains.
 
-I'm also a ZK developer who implement a ZK circuit in [Noir](https://noir-lang.org/), [Circom](https://iden3.io/circom), zkVM (i.e. [SP1](https://docs.succinct.xyz/docs/sp1/introduction), [RISC Zero](https://risczero.com/)) and integrate these ZK (Zero-Knowledge) implementation with a smart contract on blockchain. 
+I'm also a ZK developer who implement a ZK circuit in [Noir](https://noir-lang.org/), [Circom](https://iden3.io/circom), zkVM (i.e. [SP1](https://docs.succinct.xyz/docs/sp1/introduction), [RISC Zero](https://risczero.com/)) and integrate these ZK ([Zero-Knowledge](https://chain.link/education/zero-knowledge-proof-zkp)) implementation with a smart contract on blockchain. 
 
 <br>
 
