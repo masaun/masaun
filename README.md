@@ -6,16 +6,15 @@ I'm also a ZK developer who implement a ZK circuit in [Noir](https://noir-lang.o
 
 <br>
 
-## Reach out to me:
-
-- 📫 Email: masaun@protonmail.com
-
-<br>
-
 ## Awards:
 
 - 🥇 Here are the list of [awards](https://github.com/masaun/awards/blob/main/README.md) that I got in the past hackathons, etc.
 
+<br>
+
+## Reach out to me:
+
+- 📫 Email: masaun@protonmail.com
 
 <!--
 **masaun/masaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
