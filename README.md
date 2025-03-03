@@ -14,7 +14,7 @@ I'm also a ZK developer who implement a ZK circuit in [Noir](https://noir-lang.o
 
 ## Awards:
 
-- Here are the list of [awards](https://github.com/masaun/awards/blob/main/README.md) that I got in the past hackathons, etc:
+- 🥇 Here are the list of [awards](https://github.com/masaun/awards/blob/main/README.md) that I got in the past hackathons, etc.
 
 
 <!--
